@@ -1,0 +1,25 @@
+.sucard {
+  width: 1366px;
+  height: 1215px;
+}
+.card-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 1366px;
+  height: 690px;
+}
+.card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btnforhome {
+  width: 204px;
+  height: 44px;
+  border-radius: 8px;
+  background-color: #088c03;
+  color: #ffffff;
+}

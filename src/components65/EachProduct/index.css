@@ -1,0 +1,73 @@
+.eachprodectbg {
+  width: 287px;
+  height: 263px;
+  border-radius: 16px;
+  border-width: 1px;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-top: 16px;
+  padding-bottom: 8px;
+  gap: 16px;
+  background-color: #ffffff;
+  border-color: #d8d8d8;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.eachproductImg {
+  width: 130px;
+  height: 135px;
+  background-size: cover;
+}
+
+.carddetails {
+  display: flex;
+  flex-direction: row;
+  width: 271px;
+  height: 80px;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0px;
+  padding-right: 16px;
+  padding-top: 0px;
+  padding-bottom: 16px;
+}
+.productname {
+  height: 24px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+}
+.productweight {
+  height: 24px;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #808080;
+}
+.productprice {
+  height: 24px;
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+}
+.productbutton {
+  width: 100px;
+  height: 47px;
+  border-radius: 8px;
+  border-width: 1px;
+  padding-left: 12px;
+  padding-right: 24px;
+  padding-top: 12px;
+  padding-bottom: 24px;
+  gap: 8px;
+  border-color: #088c03;
+}

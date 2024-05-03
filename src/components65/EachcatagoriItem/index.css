@@ -1,0 +1,9 @@
+.eachitem {
+  display: flex;
+  overflow-x: scroll;
+}
+.main_card {
+  width: 999px;
+  height: 400px;
+  gap: 26px;
+}
